@@ -2,4 +2,4 @@
 
 asd njknkj
 
-<span style="font-size:50%">text you want</span>
+<span style="font-size:300%">text you want</span>
